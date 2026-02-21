@@ -1,4 +1,4 @@
-# nothig-deno
+# nothing-demo
 this is my first Git Repository.
 <br>
-Author - Krishna Rajput
+Author - Krishna Rajput(The Sigma Rajput).
